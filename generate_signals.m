@@ -1,4 +1,4 @@
-%% This function generates the flouresence traces used as observations in the simulation study (Section 5.1).
+%% This function generates the flouresence traces used as observations in the first simulation study.
 
 % Outputs:
     % Y:                    the ensemble of flouresence observations (time_frames * neurons * trials)
