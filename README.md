@@ -18,6 +18,7 @@ Following these steps will regenerate the Figures (Figure 2) and results outline
 ## Contents
 
 The tasks performed by each MATLAB function are explained in detail in their headers and comments. In summary:
+
 1.main.m : Master script
 2.generate_signals.m: Generates the simulated data
 3.proposed_estimation_procedure.m: The implementation of the proposed iterative procedure
